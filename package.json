@@ -1,0 +1,31 @@
+{
+  "name": "color-types",
+  "version": "1.0.0",
+  "description": "Type definitions for color",
+  "typings": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "author": {
+    "name": "DungGramer",
+    "email": "dung.dev.gramer@gmail.com",
+    "url": "https://dunggramer.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DungGramer/color-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DungGramer/color-types/issues"
+  },
+  "homepage": "https://github.com/DungGramer/color-types#readme",
+  "keywords": [
+    "color",
+    "css",
+    "type",
+    "typescript",
+    "definition",
+    "declaration"
+  ],
+  "license": "MIT"
+}
